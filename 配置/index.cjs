@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o1Cwv5hjvQbAq4-4DtDQLDpsjeR8',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '	A-IvD-IPq-t6KqDN4ZC8LiSShihyMcnyimqVX796On8	',
+      useTemplateId: 'A-IvD-IPq-t6KqDN4ZC8LiSShihyMcnyimqVX796On8',
       // 所在省份
       province: '吉林',
       // 所在城市
@@ -182,12 +182,12 @@ const USER_CONFIG = {
   CALLBACK_TEMPLATE_ID: '',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: [Aug9_W25]
     {
       // 一般都填自己
       name: '自己',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o1Cwv5hjvQbAq4-4DtDQLDpsjeR8',
     }
     // 你可以不断按格式往下增加
     // ...
